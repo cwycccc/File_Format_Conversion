@@ -5,7 +5,7 @@ epub_to_txt_project/
 ├── TXT/           # 存放转换后的TXT文件的文件夹
 ├── epub2txt.py       # 你的转换脚本    
 ├── requirements.txt       # 存放项目依赖库    
-└── README.md              # 项目的说明文档     
+└── README.md              # 项目的说明文档        
 ## 关于使用
 This project converts EPUB files to TXT format.
 #### Requirements
