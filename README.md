@@ -1,24 +1,14 @@
-# EPUB to TXT 
-## 项目结构
-epub_to_txt_project/       
-├── EPUB/          # 存放EPUB文件的文件夹              
-├── TXT/           # 存放转换后的TXT文件的文件夹         
-├── epub2txt.py       # 你的转换脚本                
-├── requirements.txt       # 存放项目依赖库               
-└── README.md              # 项目的说明文档                        
-## 关于使用            
-This project converts EPUB files to TXT format.
-#### Requirements
+# File Format Converter
 
-- Python 3.x
-- Packages listed in `requirements.txt`
-```
-pip install -r requirements.txt
-```
-#### run
-```
-python epub_to_txt.py 
-```
+## 项目简介
 
-## 总结
-提供了一个简单、轻量级的解决方案，使用Python和第三方库EbookLib快速将EPUB文件转换为TXT文件。
+这个项目包含两个文件格式转换工具：一个用于将 EPUB 文件转换为 TXT 文件，另一个用于将 PDF 文件转换为 TXT 文件。该工具旨在简化文档处理，方便用户进行文本分析和处理。
+
+## 功能
+
+- **EPUB 转 TXT**: 将 EPUB 格式的电子书转换为纯文本文件，方便阅读和文本分析。
+- **PDF 转 TXT**: 将 PDF 格式的文档转换为纯文本文件，以便于编辑和分析。
+
+## 使用  
+
+- 各个功能文件下有使用的手册
