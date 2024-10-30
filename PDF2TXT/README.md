@@ -1,10 +1,10 @@
 # PDF to TXT 
 ## 项目结构
-PDF2TXT
-    ├─pdf
-    └─txt     
-    ├── pdf2txt.py       # 你的转换脚本                          
-    └── README.md              # 使用说明文档                        
+PDF2TXT             
+    ├─pdf    
+    └─txt                      
+    ├── pdf2txt.py                    # 你的转换脚本                          
+    └── README.md                            # 使用说明文档                        
 ## 关于使用            
 This project converts EPUB files to TXT format.
 #### Requirements
